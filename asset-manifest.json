@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://endeavourenergy.github.io/site-manager-public/static/css/main.css",
+    "main.js": "https://endeavourenergy.github.io/site-manager-public/static/js/main.js",
+    "main.js.map": "https://endeavourenergy.github.io/site-manager-public/static/js/main.js.map",
+    "static/js/1.f5aec328.chunk.js": "https://endeavourenergy.github.io/site-manager-public/static/js/1.f5aec328.chunk.js",
+    "static/js/1.f5aec328.chunk.js.map": "https://endeavourenergy.github.io/site-manager-public/static/js/1.f5aec328.chunk.js.map",
+    "index.html": "https://endeavourenergy.github.io/site-manager-public/index.html",
+    "static/css/main.css.map": "https://endeavourenergy.github.io/site-manager-public/static/css/main.css.map",
+    "static/js/main.js.LICENSE.txt": "https://endeavourenergy.github.io/site-manager-public/static/js/main.js.LICENSE.txt",
+    "static/media/chevron-down.bb48ed02.svg": "https://endeavourenergy.github.io/site-manager-public/static/media/chevron-down.bb48ed02.svg",
+    "static/media/edit.e7d94b1b.svg": "https://endeavourenergy.github.io/site-manager-public/static/media/edit.e7d94b1b.svg",
+    "static/media/invite.31ff57b0.svg": "https://endeavourenergy.github.io/site-manager-public/static/media/invite.31ff57b0.svg",
+    "static/media/plus.62b276e0.svg": "https://endeavourenergy.github.io/site-manager-public/static/media/plus.62b276e0.svg",
+    "static/media/trash.c2dd1f6c.svg": "https://endeavourenergy.github.io/site-manager-public/static/media/trash.c2dd1f6c.svg"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "static/js/main.js"
+  ]
+}
